@@ -1,6 +1,6 @@
 # Welcome to My Work GitHub!
 
-![Header Image](https://via.placeholder.com/800x200.png?text=Welcome+to+My+Work+GitHub)
+![Header Image](https://blog.boot.dev/img/800/github.webp)
 
 ## Hey There, Stranger!
 
